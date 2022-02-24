@@ -14,9 +14,7 @@ Here is the Help For My Bot Commands."""
 ☞ DataBase: Mongo DB
 ☞ Bot Server: Heroku
 ☞ Build Status: v1.0.1 [Beta]
-#☞ Updates:<a href='https://t.me/TeleRoidGroup'>@𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍𝙶𝚛𝚘𝚞𝚙</𝚊>
-#☞ Support: <a href='https://t.me/TeleRoid14'> @𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍14</𝚊>
-#☞ BotsList" : <a href='https://t.me/TheTeleRoid'> @𝙿𝙷𝙻𝚒𝚜𝚝𝙱𝚘𝚝</𝚊>"""
+"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/PredatorHackerzZ/SamanthaMoviesBot
