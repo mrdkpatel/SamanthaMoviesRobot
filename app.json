@@ -16,7 +16,7 @@
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
     "repository": "https://github.com/EvamariaTG/EvaMaria",
-    "logo": "https://telegra.ph/file/b50505fc5da68f48632d2.jpg",
+    "logo": "https://telegra.ph/file/f06e7405c0ad4730df537.jpg",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
