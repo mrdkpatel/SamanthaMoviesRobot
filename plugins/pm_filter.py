@@ -362,12 +362,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/TeleRoid_AutoFilterBot?startgroup=true')
+            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/Wolverinefilter_bot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
-            InlineKeyboardButton('⭕ Support ⭕', url='t.me/TeleRoid14'),
+            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/+FqtNWNX0FaYwZDM9'),
             InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/TeleRoidGroup')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
@@ -403,7 +403,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/TeleRoidGroup'),
             InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/TeleRoid14')
             ],[
-            InlineKeyboardButton('🚸 Powered By', url='https://t.me/MoviesFlixers_DL'),
+            InlineKeyboardButton('🚸 Powered By', url='https://t.me/+FqtNWNX0FaYwZDM9'),
             InlineKeyboardButton('💢 Source', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
