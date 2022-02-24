@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Wolvarine Autofilter Bot</b>
+  <b>Wolverine Autofilter Bot</b>
 </h1>
 
 
