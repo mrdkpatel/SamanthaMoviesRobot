@@ -1,14 +1,14 @@
 class script(object):
     START_TXT = """Hello {} 👨‍💻,
 My Name is <a href='https://t.me/Wolverinefilter_bot'>Wolverine Bot</a>
-I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.
+I Can Provide Movies and Series In Telegram Group @wantlink. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Group.
 Just Add Me To Your Group And Enjoy Of All Available Movies On TG.
 Made With ❤ BY @wantlink with help of TeleRoidGroup"""
     HELP_TXT = """Hell'O {}
 Here is the Help For My Bot Commands."""
-    ABOUT_TXT = """☞ My Name: Sam Movies
+    ABOUT_TXT = """☞ My Name: Wolverine Bot
 ☞ Developer: TheTeleRoid
-☞ Developer: @wantlink
+☞ Deployer: @wantlink
 ☞ Library: Pyrogram
 ☞ Language: Python 3
 ☞ DataBase: Mongo DB
